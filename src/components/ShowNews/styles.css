@@ -1,0 +1,39 @@
+.showCardContent {
+  margin: 32px;
+  color: #2073bd;
+}
+
+.showCardTitle {
+  margin: 0;
+  margin-bottom: 6px;
+  font-weight: 600;
+}
+
+
+.showPageFooter {
+  display: flex;
+  justify-content: space-between;
+  margin-top: auto;
+  font-size: 14px;
+}
+
+button {
+  width: 72px;
+  margin-right: 5px;
+  border: 1px solid #2272ba;
+  padding: 4px;
+  border-radius: 4px;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: #e8f3ff;
+}
+
+.buttonsContainer {
+  margin-top: 10px;
+}
+
+strong {
+  font-weight: 600;
+}
